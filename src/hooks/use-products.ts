@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import fallbackProducts from "../../data/products.json";
 
 export interface ProductVariant {
   color: string;
@@ -56,7 +57,7 @@ function saveToCache(products: Product[]) {
   } catch (e) {}
 }
 
-export const staticProducts: Product[] = [];
+export const staticProducts: Product[] = fallbackProducts as Product[];
 
 let memoryCache: Product[] | null = null;
 
@@ -90,7 +91,10 @@ export const useProducts = () => {
     }
 
     fetch('/api/products')
-      .then(r => r.json())
+      .then(r => {
+        if (!r.ok) throw new Error('API not available');
+        return r.json();
+      })
       .then((data: any[]) => {
         const parsed = data.map((p: any) => ({
           ...p,
@@ -106,7 +110,18 @@ export const useProducts = () => {
         setLoading(false);
       })
       .catch(err => {
-        console.error("Failed to load products:", err);
+        console.warn("Failed to load products from API, using static fallback:", err);
+        const parsed = fallbackProducts.map((p: any) => ({
+          ...p,
+          sizes: Array.isArray(p.sizes) ? p.sizes : [],
+          colors: Array.isArray(p.colors) ? p.colors : [],
+          variants: Array.isArray(p.variants) ? p.variants : [],
+          images: Array.isArray(p.images) ? p.images : (p.image ? [p.image] : []),
+          sold: p.sold || false,
+        }));
+        memoryCache = parsed;
+        saveToCache(parsed);
+        setProducts(parsed);
         setLoading(false);
       });
   }, []);

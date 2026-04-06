@@ -208,7 +208,7 @@ async function initStripe() {
       .catch((err: any) => {
         console.error('Error syncing Stripe data:', err);
       });
-    
+
     return true;
   } catch (error) {
     console.error('Failed to initialize Stripe:', error);
@@ -299,7 +299,7 @@ app.get('/api/stripe/publishable-key', async (req, res) => {
   try {
     const publishableKey = await getStripePublishableKey();
     if (!publishableKey) {
-       return res.status(404).json({ error: 'Stripe is not configured' });
+      return res.status(404).json({ error: 'Stripe is not configured' });
     }
     res.json({ publishableKey });
   } catch (error: any) {
@@ -315,7 +315,7 @@ import Groq from 'groq-sdk';
 app.post('/api/ai/chat', async (req, res) => {
   try {
     const { message, history } = req.body;
-    
+
     if (!message || typeof message !== 'string') {
       return res.status(400).json({ error: 'Message is required' });
     }
@@ -326,10 +326,10 @@ app.post('/api/ai/chat', async (req, res) => {
     }
 
     const groq = new Groq({ apiKey: groqApiKey });
-    
+
     // Get products for context - compact format to stay within token limits
     const products = await getAllProducts();
-    const productContext = products.slice(0, 30).map(p => `${p.id}|${p.name}|${p.brand || ''}|R$${(Number(p.price)/100).toFixed(0)}`).join('\n');
+    const productContext = products.slice(0, 30).map(p => `${p.id}|${p.name}|${p.brand || ''}|R$${(Number(p.price) / 100).toFixed(0)}`).join('\n');
 
     const systemPrompt = `Voce e a Vega, assistente animada e jovem da VURO - melhor loja de tenis premium do Brasil. Seja direta, util e use emojis com moderacao 👟💛🔥.
 
@@ -354,7 +354,7 @@ REDES: Instagram instagram.com/vuro.br | TikTok @vuro.store.br | Facebook facebo
 REGRAS: Use APENAS produtos do catalogo. Recomende 2-3 por vez. Nunca invente contatos.
 FORMATO: Ao recomendar produtos, adicione ao FINAL da resposta: [PRODUCTS: id1, id2] — use o id EXATO do catalogo (incluindo o - inicial). Sem recomendacao, responda normalmente.`;
 
-    const messages: Array<{role: 'system' | 'user' | 'assistant', content: string}> = [
+    const messages: Array<{ role: 'system' | 'user' | 'assistant', content: string }> = [
       { role: 'system', content: systemPrompt },
     ];
 
@@ -376,10 +376,10 @@ FORMATO: Ao recomendar produtos, adicione ao FINAL da resposta: [PRODUCTS: id1, 
     });
 
     let responseText = completion.choices[0]?.message?.content || 'Desculpe, nao consegui processar sua pergunta.';
-    
+
     // Extract all product recommendation tags from the response
     const allProductMatches = [...responseText.matchAll(/\[PRODUCTS:\s*([^\]]+)\]/gi)];
-    let recommendedProducts: Array<{id: string, name: string, brand: string, price: string, image: string}> = [];
+    let recommendedProducts: Array<{ id: string, name: string, brand: string, price: string, image: string }> = [];
     const seenIds = new Set<string>();
 
     for (const match of allProductMatches) {
@@ -408,9 +408,9 @@ FORMATO: Ao recomendar produtos, adicione ao FINAL da resposta: [PRODUCTS: id1, 
     responseText = responseText.replace(/\[PRODUCTS:[^\]]+\]/gi, '').trim();
     responseText = responseText.replace(/\(ID:?\s*-?[A-Za-z0-9_]+\)/gi, '').trim();
 
-    res.json({ 
+    res.json({
       message: responseText,
-      products: recommendedProducts 
+      products: recommendedProducts
     });
   } catch (error: any) {
     console.error('AI chat error:', error);
@@ -448,17 +448,17 @@ app.post('/api/checkout/create-session', async (req, res) => {
     if (!stripe) {
       return res.status(400).json({ error: 'Pagamentos indisponíveis no momento' });
     }
-    
+
     // Get base URL from request headers or environment
     const protocol = req.headers['x-forwarded-proto'] || 'https';
     const host = req.headers['x-forwarded-host'] || req.headers.host || '127.0.0.1:7500';
     const baseUrl = process.env.APP_URL || `${protocol}://${host}`;
 
     const lineItems: any[] = [];
-    
+
     for (const item of items) {
       const product = await getProductById(item.productId);
-      
+
       if (!product) {
         return res.status(400).json({ error: `Produto não encontrado: ${item.productId}` });
       }
@@ -499,7 +499,7 @@ app.post('/api/checkout/create-session', async (req, res) => {
     try {
       const s = readJsonFile('settings.json');
       storeSettings = Array.isArray(s) ? (s[0] || storeSettings) : (s || storeSettings);
-    } catch {}
+    } catch { }
 
     const standardCostCents = storeSettings.freeShipping ? 0 : (Number(storeSettings.standardShippingCost) || 2500);
     const expressCostCents = Number(storeSettings.expressShippingCost) || 1500;
@@ -521,7 +521,7 @@ app.post('/api/checkout/create-session', async (req, res) => {
 
     // Apply discounts
     const subtotal = lineItems.reduce((acc, item) => acc + (item.price_data.unit_amount * item.quantity), 0);
-    
+
     // Coupon discount
     if (couponDiscount && couponDiscount > 0) {
       const couponDiscountCents = Math.round(couponDiscount * 100);
@@ -551,7 +551,7 @@ app.post('/api/checkout/create-session', async (req, res) => {
         quantity: 1,
       });
     }
-    
+
     if (selectedShipping.cost > 0) {
       lineItems.push({
         price_data: {
@@ -789,7 +789,7 @@ app.post('/api/orders', async (req, res) => {
     orders.push(newOrder);
     writeJsonFile('orders.json', orders);
     // Send email notification to admin (fire-and-forget)
-    sendOrderNotificationEmail(newOrder).catch(() => {});
+    sendOrderNotificationEmail(newOrder).catch(() => { });
     res.json(newOrder);
   } catch (error) {
     res.status(500).json({ error: 'Failed to create order' });
@@ -835,7 +835,7 @@ app.get('/api/settings', (req, res) => {
 app.patch('/api/settings', (req, res) => {
   try {
     let settings: any = {};
-    try { settings = readJsonFile('settings.json'); if (Array.isArray(settings)) settings = settings[0] || {}; } catch {}
+    try { settings = readJsonFile('settings.json'); if (Array.isArray(settings)) settings = settings[0] || {}; } catch { }
     const updated = { ...settings, ...req.body };
     writeJsonFile('settings.json', updated);
     res.json(updated);
@@ -1028,7 +1028,7 @@ async function startServer() {
       path.resolve(process.cwd(), 'dist'),
       path.resolve('/app', 'dist'),
     ];
-    
+
     let distPath = possiblePaths[0];
     for (const p of possiblePaths) {
       try {
@@ -1037,9 +1037,9 @@ async function startServer() {
           distPath = p;
           break;
         }
-      } catch (e) {}
+      } catch (e) { }
     }
-    
+
     console.log('Serving static files from:', distPath);
     app.use(express.static(distPath));
     app.use((req, res, next) => {
@@ -1057,8 +1057,8 @@ async function startServer() {
     app.use(vite.middlewares);
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server running on http://0.0.0.0:${PORT}`);
+  app.listen(PORT, '127.0.0.1', () => {
+    console.log(`Server running on http://127.0.0.1:${PORT}`);
   });
 }
 
