@@ -8,7 +8,9 @@ node_modules
 .replit
 replit.md
 README.md
-attached_assets
+attached_assets/*
+!attached_assets/vega_avatar.png
+!attached_assets/image_1775422346160.png
 data
 dist
 dist-server
