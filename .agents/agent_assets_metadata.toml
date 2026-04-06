@@ -1,0 +1,31 @@
+uploads = []
+
+[[generated]]
+id = "8g--Fu6YyPr2om3PM3Lxe"
+uri = "file://attached_assets/vega_avatar.png"
+type = "image"
+title = "vega avatar vuro branded"
+
+[[generated]]
+id = "QwSyrVWuktPzVSGHXnHl2"
+uri = "file://attached_assets/generated_images/vuro_feed_post.png"
+type = "image"
+title = "vuro feed post"
+
+[[generated]]
+id = "dksUuGNcEJ-nR8eoCEvwD"
+uri = "file://attached_assets/generated_images/vuro_story_post.png"
+type = "image"
+title = "vuro story post"
+
+[[outputs]]
+id = "ZLOwYnK4X7QzQFo64CiDI"
+uri = "file://attached_assets/generated_images/vuro_feed_post.png"
+type = "image"
+title = "VURO — Post para o Feed (Instagram / Facebook)"
+
+[[outputs]]
+id = "A3sNwoyet6lqJ-opuHtka"
+uri = "file://attached_assets/generated_images/vuro_story_post.png"
+type = "image"
+title = "VURO — Story (Instagram / TikTok)"

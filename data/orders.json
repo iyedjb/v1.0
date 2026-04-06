@@ -1,0 +1,140 @@
+[
+  {
+    "id": "order_1775439345512_gbat8ebpk",
+    "userId": "gWsZtnLkfBZSsWvcWGnXSbxX75D3",
+    "userEmail": "louayjbara2025@gmail.com",
+    "customerName": "louay jebara",
+    "items": [
+      {
+        "productId": "-OjEgeLN1hdmH2a82lgE",
+        "name": "PUMA",
+        "image": "/products/-OjEgeLN1hdmH2a82lgE_0.jpg",
+        "size": "39",
+        "color": "PRETO",
+        "price": 100,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 2600,
+    "shippingOption": "standard",
+    "paymentMethod": "pix",
+    "pixOrderId": "VURO1775439345289",
+    "status": "cancelled",
+    "shippingInfo": {
+      "firstName": "louay",
+      "lastName": "jebara",
+      "address": "Avenida São Patrício, Cidade Jardim",
+      "number": "201",
+      "complement": "casa2",
+      "city": "Esmeraldas - MG",
+      "postalCode": "32802730",
+      "country": "Brasil",
+      "phone": "31999999999"
+    },
+    "createdAt": 1775439345512
+  },
+  {
+    "id": "order_1775439639891_5iafloqkh",
+    "userId": "gWsZtnLkfBZSsWvcWGnXSbxX75D3",
+    "userEmail": "louayjbara2025@gmail.com",
+    "customerName": "louay jebara",
+    "items": [
+      {
+        "productId": "-OipliQGdtaztzeg1_S5",
+        "name": "ADIDAS AD 2000",
+        "image": "/products/-OipliQGdtaztzeg1_S5_v1.jpg",
+        "size": "40",
+        "color": "CINZA",
+        "price": 23000,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 25500,
+    "shippingOption": "standard",
+    "paymentMethod": "pix",
+    "pixOrderId": "VURO1775439639711",
+    "status": "cancelled",
+    "shippingInfo": {
+      "firstName": "louay",
+      "lastName": "jebara",
+      "address": "Avenida São Patrício, Cidade Jardim",
+      "number": "201",
+      "complement": "casa2",
+      "city": "Esmeraldas - MG",
+      "postalCode": "32802730",
+      "country": "Brasil",
+      "phone": "31999999999"
+    },
+    "createdAt": 1775439639891
+  },
+  {
+    "id": "order_1775439939573_zrpbqbjyf",
+    "userId": "gWsZtnLkfBZSsWvcWGnXSbxX75D3",
+    "userEmail": "louayjbara2025@gmail.com",
+    "customerName": "louay jebara",
+    "items": [
+      {
+        "productId": "-OiiqF1W0VbI4oNDKsuf",
+        "name": "NEW BALANÇE 997H",
+        "image": "/products/-OiiqF1W0VbI4oNDKsuf_0.jpg",
+        "size": "40",
+        "color": "BEGE",
+        "price": 25198,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 27698,
+    "shippingOption": "standard",
+    "paymentMethod": "pix",
+    "pixOrderId": "VURO1775439939402",
+    "status": "cancelled",
+    "shippingInfo": {
+      "firstName": "louay",
+      "lastName": "jebara",
+      "address": "Avenida São Patrício, Cidade Jardim",
+      "number": "201",
+      "complement": "casa2",
+      "city": "Esmeraldas - MG",
+      "postalCode": "32802730",
+      "country": "Brasil",
+      "phone": "31999999999"
+    },
+    "createdAt": 1775439939573
+  },
+  {
+    "id": "order_1775440310868_hsvt1qxwv",
+    "userId": "gWsZtnLkfBZSsWvcWGnXSbxX75D3",
+    "userEmail": "louayjbara2025@gmail.com",
+    "customerName": "louay jebara",
+    "items": [
+      {
+        "productId": "-OjEgeLN1hdmH2a82lgE",
+        "name": "PUMA",
+        "image": "/products/-OjEgeLN1hdmH2a82lgE_0.jpg",
+        "size": "40",
+        "color": "CINZA",
+        "price": 50,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 100,
+    "shippingOption": "standard",
+    "paymentMethod": "pix",
+    "pixOrderId": "VURO1775440310671",
+    "status": "pending",
+    "shippingInfo": {
+      "firstName": "louay",
+      "lastName": "jebara",
+      "address": "Avenida São Patrício, Cidade Jardim",
+      "number": "201",
+      "complement": "casa2",
+      "city": "Esmeraldas - MG",
+      "postalCode": "32802730",
+      "country": "Brasil",
+      "phone": "31999999999"
+    },
+    "createdAt": 1775440310868,
+    "updatedAt": 1775440935293,
+    "deliveryDate": "15/04"
+  }
+]

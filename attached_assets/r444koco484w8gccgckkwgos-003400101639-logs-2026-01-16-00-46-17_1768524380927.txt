@@ -1,0 +1,83 @@
+at ModuleLoader.resolve (node:internal/modules/esm/loader:582:38)
+at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:241:38)
+at ModuleJob._link (node:internal/modules/esm/module_job:132:49) {
+code: 'ERR_MODULE_NOT_FOUND',
+url: 'file:///app/dist-server/stripeClient'
+}
+> vite_react_shadcn_ts@0.0.0 start
+> NODE_ENV=production node dist-server/index.js
+> vite_react_shadcn_ts@0.0.0 start
+Node.js v22.11.0
+npm warn config production Use `--omit=dev` instead.
+node:internal/modules/esm/resolve:257
+throw new ERR_MODULE_NOT_FOUND(
+^
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/app/dist-server/stripeClient' imported from /app/dist-server/index.js
+at finalizeResolution (node:internal/modules/esm/resolve:257:11)
+at moduleResolve (node:internal/modules/esm/resolve:913:10)
+at defaultResolve (node:internal/modules/esm/resolve:1037:11)
+at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:650:12)
+at #cachedDefaultResolve (node:internal/modules/esm/loader:599:25)
+at ModuleLoader.resolve (node:internal/modules/esm/loader:582:38)
+at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:241:38)
+at ModuleJob._link (node:internal/modules/esm/module_job:132:49) {
+code: 'ERR_MODULE_NOT_FOUND',
+url: 'file:///app/dist-server/stripeClient'
+}
+Node.js v22.11.0
+npm warn config production Use `--omit=dev` instead.
+> NODE_ENV=production node dist-server/index.js
+> vite_react_shadcn_ts@0.0.0 start
+> NODE_ENV=production node dist-server/index.js
+> vite_react_shadcn_ts@0.0.0 start
+> NODE_ENV=production node dist-server/index.js
+node:internal/modules/esm/resolve:257
+throw new ERR_MODULE_NOT_FOUND(
+^
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/app/dist-server/stripeClient' imported from /app/dist-server/index.js
+at finalizeResolution (node:internal/modules/esm/resolve:257:11)
+at moduleResolve (node:internal/modules/esm/resolve:913:10)
+at defaultResolve (node:internal/modules/esm/resolve:1037:11)
+at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:650:12)
+at #cachedDefaultResolve (node:internal/modules/esm/loader:599:25)
+at ModuleLoader.resolve (node:internal/modules/esm/loader:582:38)
+at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:241:38)
+at ModuleJob._link (node:internal/modules/esm/module_job:132:49) {
+code: 'ERR_MODULE_NOT_FOUND',
+url: 'file:///app/dist-server/stripeClient'
+}
+Node.js v22.11.0
+npm warn config production Use `--omit=dev` instead.
+node:internal/modules/esm/resolve:257
+throw new ERR_MODULE_NOT_FOUND(
+^
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/app/dist-server/stripeClient' imported from /app/dist-server/index.js
+at finalizeResolution (node:internal/modules/esm/resolve:257:11)
+at moduleResolve (node:internal/modules/esm/resolve:913:10)
+at defaultResolve (node:internal/modules/esm/resolve:1037:11)
+at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:650:12)
+at #cachedDefaultResolve (node:internal/modules/esm/loader:599:25)
+at ModuleLoader.resolve (node:internal/modules/esm/loader:582:38)
+at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:241:38)
+at ModuleJob._link (node:internal/modules/esm/module_job:132:49) {
+code: 'ERR_MODULE_NOT_FOUND',
+url: 'file:///app/dist-server/stripeClient'
+}
+Node.js v22.11.0
+npm warn config production Use `--omit=dev` instead.
+node:internal/modules/esm/resolve:257
+throw new ERR_MODULE_NOT_FOUND(
+^
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/app/dist-server/stripeClient' imported from /app/dist-server/index.js
+at finalizeResolution (node:internal/modules/esm/resolve:257:11)
+at moduleResolve (node:internal/modules/esm/resolve:913:10)
+at defaultResolve (node:internal/modules/esm/resolve:1037:11)
+at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:650:12)
+at #cachedDefaultResolve (node:internal/modules/esm/loader:599:25)
+at ModuleLoader.resolve (node:internal/modules/esm/loader:582:38)
+at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:241:38)
+at ModuleJob._link (node:internal/modules/esm/module_job:132:49) {
+code: 'ERR_MODULE_NOT_FOUND',
+url: 'file:///app/dist-server/stripeClient'
+}
+Node.js v22.11.0

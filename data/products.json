@@ -1,0 +1,2134 @@
+[
+  {
+    "id": "-OjEgeLN1hdmH2a82lgE",
+    "name": "PUMA",
+    "brand": "Puma",
+    "price": 50,
+    "image": "/products/-OjEgeLN1hdmH2a82lgE_0.jpg",
+    "images": [
+      "/products/-OjEgeLN1hdmH2a82lgE_0.jpg",
+      "/products/-OjEgeLN1hdmH2a82lgE_1.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "CINZA"
+    ],
+    "variants": [],
+    "category": "puma",
+    "description": "",
+    "isNew": true,
+    "sold": false,
+    "material": "",
+    "dimensions": "",
+    "weight": "",
+    "editorsNotes": "",
+    "productDetails": "",
+    "careCleaning": "",
+    "availableSizes": [],
+    "freeShipping": true,
+    "priceInCents": 100,
+    "updatedAt": 1775437100664
+  },
+  {
+    "id": "-Oijd0lSUe98WoEbx1An",
+    "name": "NIKE JORDAN",
+    "brand": "Nike",
+    "price": 19144,
+    "image": "/products/-Oijd0lSUe98WoEbx1An_main.jpg",
+    "images": [
+      "/products/-Oijd0lSUe98WoEbx1An_0.jpg",
+      "/products/-Oijd0lSUe98WoEbx1An_1.jpg",
+      "/products/-Oijd0lSUe98WoEbx1An_2.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "colors": [
+      "vermelho"
+    ],
+    "variants": [
+      {
+        "color": "vermelho",
+        "image": "/products/-Oijd0lSUe98WoEbx1An_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "Sapato com estilo pesado e presença forte. A linha Jordan é referência no street e entrega conforto, resistência e visual marcante.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oij_GVxBC9DEZthHyXb",
+    "name": "NIKE DUNK LOW",
+    "brand": "Nike",
+    "price": 14000,
+    "image": "/products/-Oij_GVxBC9DEZthHyXb_main.jpg",
+    "images": [
+      "/products/-Oij_GVxBC9DEZthHyXb_0.jpg",
+      "/products/-Oij_GVxBC9DEZthHyXb_1.jpg",
+      "/products/-Oij_GVxBC9DEZthHyXb_2.jpg",
+      "/products/-Oij_GVxBC9DEZthHyXb_3.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "CINZA",
+      "CINZA",
+      ""
+    ],
+    "variants": [],
+    "category": "nike",
+    "description": "Sapato clássico com estilo pesado e visual que nunca sai de moda. A Nike Dunk Low é perfeita pra quem curte street, conforto e presença no look.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oijay7Nlof289lY90mI",
+    "name": "NIKE AIR FORCE",
+    "brand": "Nike",
+    "price": 17233,
+    "image": "/products/-Oijay7Nlof289lY90mI_main.jpg",
+    "images": [
+      "/products/-Oijay7Nlof289lY90mI_0.jpg",
+      "/products/-Oijay7Nlof289lY90mI_1.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "BRANCO",
+      "PRETO"
+    ],
+    "variants": [
+      {
+        "color": "BRANCO",
+        "image": "/products/-Oijay7Nlof289lY90mI_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-Oijay7Nlof289lY90mI_v1.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "Sapato icônico, pesado no estilo e confortável no uso. O Air Force 1 é aquele modelo que combina com tudo e nunca sai de moda.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijsAuOsxyXksaCDHZG",
+    "name": "CAMPUS",
+    "brand": "Adidas",
+    "price": 18237,
+    "image": "/products/-OijsAuOsxyXksaCDHZG_main.jpg",
+    "images": [
+      "/products/-OijsAuOsxyXksaCDHZG_0.jpg",
+      "/products/-OijsAuOsxyXksaCDHZG_1.jpg",
+      "/products/-OijsAuOsxyXksaCDHZG_2.jpg",
+      "/products/-OijsAuOsxyXksaCDHZG_3.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "AZUL",
+      "PRETO",
+      ""
+    ],
+    "variants": [
+      {
+        "color": "AZUL",
+        "image": "/products/-OijsAuOsxyXksaCDHZG_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OijsAuOsxyXksaCDHZG_v1.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "adidas",
+    "description": "Sapato com visual retrô e estiloso, perfeito pra quem curte street e casual. O Adidas Campus é confortável, versátil e combina com qualquer look.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijZOzE9JaoHJFoVW5z",
+    "name": "NEW BALANÇE 2000",
+    "brand": "VURO",
+    "price": 15966,
+    "image": "/products/-OijZOzE9JaoHJFoVW5z_main.jpg",
+    "images": [
+      "/products/-OijZOzE9JaoHJFoVW5z_0.jpg",
+      "/products/-OijZOzE9JaoHJFoVW5z_1.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "AZUL"
+    ],
+    "variants": [],
+    "category": "new-balance",
+    "description": "Sapato com visual forte e moderno, feito pra quem quer conforto e atitude no dia a dia. Combina com qualquer look urbano.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oipb_hESBQBA4dkelY3",
+    "name": "ADIDAS SUPERSTAR",
+    "brand": "Adidas",
+    "price": 13000,
+    "image": "/products/-Oipb_hESBQBA4dkelY3_main.jpg",
+    "images": [
+      "/products/-Oipb_hESBQBA4dkelY3_0.jpg",
+      "/products/-Oipb_hESBQBA4dkelY3_1.jpg",
+      "/products/-Oipb_hESBQBA4dkelY3_2.jpg",
+      "/products/-Oipb_hESBQBA4dkelY3_3.jpg",
+      "/products/-Oipb_hESBQBA4dkelY3_4.jpg",
+      "/products/-Oipb_hESBQBA4dkelY3_5.jpg",
+      "/products/-Oipb_hESBQBA4dkelY3_6.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "BRANCO",
+      "ROSA"
+    ],
+    "variants": [
+      {
+        "color": "PRETO",
+        "image": "/products/-Oipb_hESBQBA4dkelY3_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "BRANCO",
+        "image": "/products/-Oipb_hESBQBA4dkelY3_v1.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "BRANCO",
+        "image": "/products/-Oipb_hESBQBA4dkelY3_v2.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "ROSA",
+        "image": "/products/-Oipb_hESBQBA4dkelY3_v3.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "category": "adidas",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OipliQGdtaztzeg1_S5",
+    "name": "ADIDAS AD 2000",
+    "brand": "Adidas",
+    "price": 23000,
+    "image": "/products/-OipliQGdtaztzeg1_S5_main.jpg",
+    "images": [
+      "/products/-OipliQGdtaztzeg1_S5_0.jpg",
+      "/products/-OipliQGdtaztzeg1_S5_1.jpg",
+      "/products/-OipliQGdtaztzeg1_S5_2.jpg",
+      "/products/-OipliQGdtaztzeg1_S5_3.jpg",
+      "/products/-OipliQGdtaztzeg1_S5_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "CINZA",
+      "PRETO",
+      "CINZA",
+      "PRETO"
+    ],
+    "variants": [
+      {
+        "color": "PRETO",
+        "image": "/products/-OipliQGdtaztzeg1_S5_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "CINZA",
+        "image": "/products/-OipliQGdtaztzeg1_S5_v1.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipliQGdtaztzeg1_S5_v2.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "CINZA",
+        "image": "/products/-OipliQGdtaztzeg1_S5_v3.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipliQGdtaztzeg1_S5_v4.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "adidas",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEgPGO__RssGL7t8Bn",
+    "name": "Nike zoom Pegasus trail",
+    "brand": "Nike",
+    "price": 16599,
+    "image": "/products/-OjEgPGO__RssGL7t8Bn_0.jpg",
+    "images": [
+      "/products/-OjEgPGO__RssGL7t8Bn_0.jpg",
+      "/products/-OjEgPGO__RssGL7t8Bn_1.jpg",
+      "/products/-OjEgPGO__RssGL7t8Bn_2.jpg",
+      "/products/-OjEgPGO__RssGL7t8Bn_3.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "BRACO",
+      "PRETO",
+      "VERMELHO",
+      "AMARELO"
+    ],
+    "variants": [],
+    "category": "nike",
+    "description": "",
+    "isNew": true,
+    "sold": false,
+    "featured": false,
+    "material": "",
+    "dimensions": "",
+    "weight": "",
+    "editorsNotes": "",
+    "productDetails": "",
+    "careCleaning": "",
+    "availableSizes": [],
+    "freeShipping": false,
+    "priceInCents": 16599,
+    "updatedAt": 1774279931416
+  },
+  {
+    "id": "-OijBrQTn_Zv20hVTXhq",
+    "name": "NEW BALANCE 9060",
+    "brand": "New Balance",
+    "price": 22000,
+    "image": "/products/-OijBrQTn_Zv20hVTXhq_main.jpg",
+    "images": [
+      "/products/-OijBrQTn_Zv20hVTXhq_0.jpg",
+      "/products/-OijBrQTn_Zv20hVTXhq_1.jpg",
+      "/products/-OijBrQTn_Zv20hVTXhq_2.jpg",
+      "/products/-OijBrQTn_Zv20hVTXhq_3.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "CINZA",
+      "ROSA"
+    ],
+    "variants": [],
+    "category": "new-balance",
+    "description": "Sapato com design moderno e robusto, feito pra quem curte estilo forte e conforto. Visual marcante, acabamento top e estrutura reforçada.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OipXnbKJFChe86kZaK0",
+    "name": "ADIDAS RUN FALCON",
+    "brand": "Adidas",
+    "price": 15635,
+    "image": "/products/-OipXnbKJFChe86kZaK0_main.jpg",
+    "images": [
+      "/products/-OipXnbKJFChe86kZaK0_0.jpg",
+      "/products/-OipXnbKJFChe86kZaK0_1.jpg",
+      "/products/-OipXnbKJFChe86kZaK0_2.jpg",
+      "/products/-OipXnbKJFChe86kZaK0_3.jpg",
+      "/products/-OipXnbKJFChe86kZaK0_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "ROSA",
+      "PRETO",
+      "PRETO",
+      "PRETO"
+    ],
+    "variants": [
+      {
+        "color": "ROSA",
+        "image": "/products/-OipXnbKJFChe86kZaK0_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipXnbKJFChe86kZaK0_v1.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipXnbKJFChe86kZaK0_v2.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipXnbKJFChe86kZaK0_v3.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "adidas",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OiiqF1W0VbI4oNDKsuf",
+    "name": "NEW BALANÇE 997H",
+    "brand": "New Balance",
+    "price": 25198,
+    "image": "/products/-OiiqF1W0VbI4oNDKsuf_main.jpg",
+    "images": [
+      "/products/-OiiqF1W0VbI4oNDKsuf_0.jpg",
+      "/products/-OiiqF1W0VbI4oNDKsuf_1.jpg",
+      "/products/-OiiqF1W0VbI4oNDKsuf_2.jpg",
+      "/products/-OiiqF1W0VbI4oNDKsuf_3.jpg",
+      "/products/-OiiqF1W0VbI4oNDKsuf_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BEGE",
+      "MARROM",
+      "CINZA"
+    ],
+    "variants": [],
+    "category": "new-balance",
+    "description": "Tênis moderno, confortável e versátil, ideal para o dia a dia. Design inspirado em modelos esportivos premium, combinando estilo urbano com conforto extremo.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oiis7UA2GNPs9Y4lbZd",
+    "name": "NEW BALANCE 990",
+    "brand": "New Balance",
+    "price": 16063,
+    "image": "/products/-Oiis7UA2GNPs9Y4lbZd_main.jpg",
+    "images": [
+      "/products/-Oiis7UA2GNPs9Y4lbZd_0.jpg",
+      "/products/-Oiis7UA2GNPs9Y4lbZd_1.jpg",
+      "/products/-Oiis7UA2GNPs9Y4lbZd_2.jpg",
+      "/products/-Oiis7UA2GNPs9Y4lbZd_3.jpg",
+      "/products/-Oiis7UA2GNPs9Y4lbZd_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "CINZA",
+      "AZUL",
+      "CINZA",
+      "CINZA"
+    ],
+    "variants": [],
+    "category": "new-balance",
+    "description": "Tênis ideal para quem busca praticidade, conforto e visual moderno. Desenvolvido para o uso diário, ele oferece leveza, resistência e um design que combina com qualquer ocasião.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OiitpG8HYJHfhj_NlvK",
+    "name": "NEW BALANCE CT-707",
+    "brand": "New Balance",
+    "price": 17200,
+    "image": "/products/-OiitpG8HYJHfhj_NlvK_main.jpg",
+    "images": [
+      "/products/-OiitpG8HYJHfhj_NlvK_0.jpg",
+      "/products/-OiitpG8HYJHfhj_NlvK_1.jpg",
+      "/products/-OiitpG8HYJHfhj_NlvK_2.jpg",
+      "/products/-OiitpG8HYJHfhj_NlvK_3.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "BRANCO",
+      "BEGE"
+    ],
+    "variants": [],
+    "category": "new-balance",
+    "description": "O New Balance CT-707 é a escolha ideal para quem busca um tênis moderno, confortável e versátil. Com design urbano inspirado no estilo retrô, ele combina perfeitamente com looks casuais do dia a dia.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijYYy3NUywhccf-a1i",
+    "name": "NEW BALANCE ELITE",
+    "brand": "New Balance",
+    "price": 15238,
+    "image": "/products/-OijYYy3NUywhccf-a1i_main.jpg",
+    "images": [
+      "/products/-OijYYy3NUywhccf-a1i_0.jpg",
+      "/products/-OijYYy3NUywhccf-a1i_1.jpg",
+      "/products/-OijYYy3NUywhccf-a1i_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "CINZA",
+      "AZUL"
+    ],
+    "variants": [],
+    "category": "new-balance",
+    "description": "Sapato moderno, pesado no estilo e leve no conforto. Ideal pra quem quer presença no visual sem abrir mão da comodidade.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijbzBVlb8SupG563oP",
+    "name": "NIKE 12 MOLAS",
+    "brand": "Nike",
+    "price": 20533,
+    "image": "/products/-OijbzBVlb8SupG563oP_5.jpg",
+    "images": [
+      "/products/-OijbzBVlb8SupG563oP_5.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "preto"
+    ],
+    "variants": [
+      {
+        "color": "preto",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ],
+        "image": "/products/-OijbzBVlb8SupG563oP_v0.jpg"
+      }
+    ],
+    "category": "nike",
+    "description": "Sapato com visual forte e presença máxima. A Nike 12 Molas é feita pra quem curte estilo chamativo, conforto e impacto no visual.",
+    "isNew": true,
+    "sold": false,
+    "material": "",
+    "dimensions": "",
+    "weight": "",
+    "editorsNotes": "",
+    "productDetails": "",
+    "careCleaning": "",
+    "availableSizes": [],
+    "freeShipping": false,
+    "priceInCents": 20533,
+    "updatedAt": 1774280143483
+  },
+  {
+    "id": "-OijdeEYfFzZ6P9ggsv4",
+    "name": "NIKE TN",
+    "brand": "Nike",
+    "price": 18000,
+    "image": "/products/-OijdeEYfFzZ6P9ggsv4_main.jpg",
+    "images": [
+      "/products/-OijdeEYfFzZ6P9ggsv4_0.jpg",
+      "/products/-OijdeEYfFzZ6P9ggsv4_1.jpg",
+      "/products/-OijdeEYfFzZ6P9ggsv4_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "ROSA",
+      "VERMELHO"
+    ],
+    "variants": [
+      {
+        "color": "PRETO",
+        "image": "/products/-OijdeEYfFzZ6P9ggsv4_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "ROSA",
+        "image": "/products/-OijdeEYfFzZ6P9ggsv4_v1.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "VERMELHO",
+        "image": "/products/-OijdeEYfFzZ6P9ggsv4_v2.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "Sapato com visual agressivo e estiloso, feito pra quem gosta de presença no look. A Nike TN é conhecida pelo design marcante e conforto no dia a dia.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oije_kaU_fBoVIh9Ili",
+    "name": "NIKE JUST DO IT",
+    "brand": "Nike",
+    "price": 18575,
+    "image": "/products/-Oije_kaU_fBoVIh9Ili_main.jpg",
+    "images": [
+      "/products/-Oije_kaU_fBoVIh9Ili_0.jpg",
+      "/products/-Oije_kaU_fBoVIh9Ili_1.jpg",
+      "/products/-Oije_kaU_fBoVIh9Ili_2.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "preto",
+      "bege",
+      "cinza"
+    ],
+    "variants": [
+      {
+        "color": "preto",
+        "image": "/products/-Oije_kaU_fBoVIh9Ili_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "bege",
+        "image": "/products/-Oije_kaU_fBoVIh9Ili_v1.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "cinza",
+        "image": "/products/-Oije_kaU_fBoVIh9Ili_v2.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "Sapato moderno e confortável, feito pra quem curte atitude e estilo no dia a dia. Visual simples, marcante e fácil de combinar com qualquer look.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oijo45t35VoHbI8HXD2",
+    "name": "NIKE VOMERO 18",
+    "brand": "Nike",
+    "price": 18242,
+    "image": "/products/-Oijo45t35VoHbI8HXD2_main.jpg",
+    "images": [
+      "/products/-Oijo45t35VoHbI8HXD2_0.jpg",
+      "/products/-Oijo45t35VoHbI8HXD2_1.jpg",
+      "/products/-Oijo45t35VoHbI8HXD2_2.jpg",
+      "/products/-Oijo45t35VoHbI8HXD2_3.jpg",
+      "/products/-Oijo45t35VoHbI8HXD2_4.jpg",
+      "/products/-Oijo45t35VoHbI8HXD2_5.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "GOLD",
+      "LARANGA",
+      "AZUL",
+      ""
+    ],
+    "variants": [
+      {
+        "color": "PRETO",
+        "image": "/products/-Oijo45t35VoHbI8HXD2_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "GOLD",
+        "image": "/products/-Oijo45t35VoHbI8HXD2_v1.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "LARANGA",
+        "image": "/products/-Oijo45t35VoHbI8HXD2_v2.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "AZUL",
+        "image": "/products/-Oijo45t35VoHbI8HXD2_v3.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "Sapato feito pra quem quer conforto de verdade sem perder o estilo. A Nike Vomero 18 entrega amortecimento macio, leveza e estabilidade pro dia a dia.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijovJYE2qgb1hRbCdR",
+    "name": "NIKE BOTA CORT BOROUGH",
+    "brand": "Nike",
+    "price": 21009,
+    "image": "/products/-OijovJYE2qgb1hRbCdR_main.jpg",
+    "images": [
+      "/products/-OijovJYE2qgb1hRbCdR_0.jpg",
+      "/products/-OijovJYE2qgb1hRbCdR_1.jpg",
+      "/products/-OijovJYE2qgb1hRbCdR_2.jpg",
+      "/products/-OijovJYE2qgb1hRbCdR_3.jpg",
+      "/products/-OijovJYE2qgb1hRbCdR_4.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "PRETO",
+      "AZUL",
+      "AZUL"
+    ],
+    "variants": [
+      {
+        "color": "PRETO",
+        "image": "/products/-OijovJYE2qgb1hRbCdR_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OijovJYE2qgb1hRbCdR_v1.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "AZUL",
+        "image": "/products/-OijovJYE2qgb1hRbCdR_v2.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "AZUL",
+        "image": "/products/-OijovJYE2qgb1hRbCdR_v3.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "Bota com visual clássico e forte, perfeita pra quem curte estilo urbano e conforto no dia a dia. A Court Borough combina design inspirado no basquete com resistência e versatilidade.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oijpml3yIYTIAIPU_sh",
+    "name": "VANS UPLAND",
+    "brand": "VURO",
+    "price": 13500,
+    "image": "/products/-Oijpml3yIYTIAIPU_sh_main.jpg",
+    "images": [
+      "/products/-Oijpml3yIYTIAIPU_sh_0.jpg",
+      "/products/-Oijpml3yIYTIAIPU_sh_1.jpg",
+      "/products/-Oijpml3yIYTIAIPU_sh_2.jpg",
+      "/products/-Oijpml3yIYTIAIPU_sh_3.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "CINZA"
+    ],
+    "variants": [],
+    "category": "sneakers",
+    "description": "Sapato com visual retrô e vibe street, feito pra quem curte estilo urbano e conforto no dia a dia. O Vans Upland traz personalidade forte e combina com qualquer look casual.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijqcQGIvyc31iz_KXc",
+    "name": "VANS KNU",
+    "brand": "VURO",
+    "price": 13200,
+    "image": "/products/-OijqcQGIvyc31iz_KXc_main.jpg",
+    "images": [
+      "/products/-OijqcQGIvyc31iz_KXc_0.jpg",
+      "/products/-OijqcQGIvyc31iz_KXc_1.jpg",
+      "/products/-OijqcQGIvyc31iz_KXc_2.jpg",
+      "/products/-OijqcQGIvyc31iz_KXc_3.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "ROSA",
+      "CINZA",
+      "PRETO"
+    ],
+    "variants": [],
+    "category": "sneakers",
+    "description": "Sapato com visual largo e estiloso, perfeito pra quem curte vibe street e skate. O Vans Knu Skool traz design retrô com conforto e atitude pro dia a dia.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijrPpPo3pMYNm0EI6o",
+    "name": "VANS ULTRARAGE",
+    "brand": "VURO",
+    "price": 12033,
+    "image": "/products/-OijrPpPo3pMYNm0EI6o_main.jpg",
+    "images": [
+      "/products/-OijrPpPo3pMYNm0EI6o_0.jpg",
+      "/products/-OijrPpPo3pMYNm0EI6o_1.jpg",
+      "/products/-OijrPpPo3pMYNm0EI6o_2.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "CINZA"
+    ],
+    "variants": [],
+    "category": "sneakers",
+    "description": "Sapato leve, moderno e muito confortável, feito pra quem anda bastante e quer estilo ao mesmo tempo. O Vans Ultrarange mistura visual urbano com desempenho pro dia a dia.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijsbVoAFBkwjM14tAc",
+    "name": "VANS KNU",
+    "brand": "VURO",
+    "price": 17536,
+    "image": "/products/-OijsbVoAFBkwjM14tAc_main.jpg",
+    "images": [
+      "/products/-OijsbVoAFBkwjM14tAc_0.jpg",
+      "/products/-OijsbVoAFBkwjM14tAc_1.jpg",
+      "/products/-OijsbVoAFBkwjM14tAc_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BEGE",
+      "CINZA"
+    ],
+    "variants": [],
+    "category": "sneakers",
+    "description": "Sapato com visual largo e pesado no estilo, feito pra quem curte vibe street e skate. O Vans Knu Skool entrega conforto, resistência e presença no look.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OijtdjBoJHjsad79Bfj",
+    "name": "VANS",
+    "brand": "VURO",
+    "price": 20222,
+    "image": "/products/-OijtdjBoJHjsad79Bfj_main.jpg",
+    "images": [
+      "/products/-OijtdjBoJHjsad79Bfj_0.jpg",
+      "/products/-OijtdjBoJHjsad79Bfj_1.jpg",
+      "/products/-OijtdjBoJHjsad79Bfj_2.jpg",
+      "/products/-OijtdjBoJHjsad79Bfj_3.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "colors": [
+      "PRETO",
+      "ROXO",
+      "CINZA",
+      "PRETO"
+    ],
+    "variants": [],
+    "category": "sneakers",
+    "description": "Sapato com visual retrô e atitude street, perfeito pra quem quer conforto e presença no dia a dia. Combina fácil com looks urbanos e casuais.",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OikWVP9CKGR130I5G4W",
+    "name": "PUMA 180",
+    "brand": "Puma",
+    "price": 13012,
+    "image": "/products/-OikWVP9CKGR130I5G4W_main.jpg",
+    "images": [
+      "/products/-OikWVP9CKGR130I5G4W_0.jpg",
+      "/products/-OikWVP9CKGR130I5G4W_1.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "ROSA",
+      "PRETO"
+    ],
+    "variants": [
+      {
+        "color": "ROSA",
+        "image": "/products/-OikWVP9CKGR130I5G4W_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OikWVP9CKGR130I5G4W_v1.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "category": "puma",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OikX-dvbRRm5YZTIruv",
+    "name": "PUMA ",
+    "brand": "Puma",
+    "price": 19099,
+    "image": "/products/-OikX-dvbRRm5YZTIruv_main.jpg",
+    "images": [
+      "/products/-OikX-dvbRRm5YZTIruv_0.jpg",
+      "/products/-OikX-dvbRRm5YZTIruv_1.jpg",
+      "/products/-OikX-dvbRRm5YZTIruv_2.jpg",
+      "/products/-OikX-dvbRRm5YZTIruv_3.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "BEGE",
+      "PRETO"
+    ],
+    "variants": [],
+    "category": "puma",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OikXTXfE-ZwBffx1uA8",
+    "name": "PUMA XL LANÇAMENTO",
+    "brand": "Puma",
+    "price": 15302,
+    "image": "/products/-OikXTXfE-ZwBffx1uA8_main.jpg",
+    "images": [
+      "/products/-OikXTXfE-ZwBffx1uA8_0.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO"
+    ],
+    "variants": [],
+    "category": "puma",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OikY5YXvdupOD7W4SDF",
+    "name": "PUMA 180",
+    "brand": "Puma",
+    "price": 21022,
+    "image": "/products/-OikY5YXvdupOD7W4SDF_main.jpg",
+    "images": [
+      "/products/-OikY5YXvdupOD7W4SDF_0.jpg",
+      "/products/-OikY5YXvdupOD7W4SDF_1.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "ROSA"
+    ],
+    "variants": [],
+    "category": "puma",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OikZwhttDro7l93-MMZ",
+    "name": "MIZUNO PROPHICY 9",
+    "brand": "Mizuno",
+    "price": 22539,
+    "image": "/products/-OikZwhttDro7l93-MMZ_main.jpg",
+    "images": [
+      "/products/-OikZwhttDro7l93-MMZ_0.jpg",
+      "/products/-OikZwhttDro7l93-MMZ_1.jpg",
+      "/products/-OikZwhttDro7l93-MMZ_2.jpg",
+      "/products/-OikZwhttDro7l93-MMZ_3.jpg",
+      "/products/-OikZwhttDro7l93-MMZ_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "CINZA",
+      "AZIL",
+      "ROSA"
+    ],
+    "variants": [],
+    "category": "mizuno",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-Oik_lpwMexpAr-WEyo1",
+    "name": "OAKLEY HALFTRACK",
+    "brand": "Oakley",
+    "price": 18036,
+    "image": "/products/-Oik_lpwMexpAr-WEyo1_main.jpg",
+    "images": [
+      "/products/-Oik_lpwMexpAr-WEyo1_0.jpg",
+      "/products/-Oik_lpwMexpAr-WEyo1_1.jpg",
+      "/products/-Oik_lpwMexpAr-WEyo1_2.jpg",
+      "/products/-Oik_lpwMexpAr-WEyo1_3.jpg",
+      "/products/-Oik_lpwMexpAr-WEyo1_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "CINZA",
+      "BEGE"
+    ],
+    "variants": [],
+    "category": "sneakers",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OipTTh3lal_dXicCXeX",
+    "name": "ADIDAS",
+    "brand": "Adidas",
+    "price": 13052,
+    "image": "/products/-OipTTh3lal_dXicCXeX_main.jpg",
+    "images": [
+      "/products/-OipTTh3lal_dXicCXeX_0.jpg",
+      "/products/-OipTTh3lal_dXicCXeX_1.jpg",
+      "/products/-OipTTh3lal_dXicCXeX_2.jpg",
+      "/products/-OipTTh3lal_dXicCXeX_3.jpg",
+      "/products/-OipTTh3lal_dXicCXeX_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "PRETO",
+      "PRETO",
+      "ROSA",
+      "PRETO"
+    ],
+    "variants": [
+      {
+        "color": "PRETO",
+        "image": "/products/-OipTTh3lal_dXicCXeX_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipTTh3lal_dXicCXeX_v1.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipTTh3lal_dXicCXeX_v2.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "ROSA",
+        "image": "/products/-OipTTh3lal_dXicCXeX_v3.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "PRETO",
+        "image": "/products/-OipTTh3lal_dXicCXeX_v4.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "adidas",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OipnfL4H_8eg-0lF7Gx",
+    "name": "ADIDAS SUPERNOVA",
+    "brand": "Adidas",
+    "price": 17522,
+    "image": "/products/-OipnfL4H_8eg-0lF7Gx_main.jpg",
+    "images": [
+      "/products/-OipnfL4H_8eg-0lF7Gx_0.jpg",
+      "/products/-OipnfL4H_8eg-0lF7Gx_1.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "AZUL",
+      "CINZA"
+    ],
+    "variants": [
+      {
+        "color": "AZUL",
+        "image": "/products/-OipnfL4H_8eg-0lF7Gx_v0.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "CINZA",
+        "image": "/products/-OipnfL4H_8eg-0lF7Gx_v1.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEcHAVXiZFAVRtlmTZ",
+    "name": "ADIDAS ADIZERO",
+    "brand": "VURO",
+    "price": 16098,
+    "image": "/products/-OjEcHAVXiZFAVRtlmTZ_main.jpg",
+    "images": [
+      "/products/-OjEcHAVXiZFAVRtlmTZ_0.jpg",
+      "/products/-OjEcHAVXiZFAVRtlmTZ_1.jpg",
+      "/products/-OjEcHAVXiZFAVRtlmTZ_2.jpg",
+      "/products/-OjEcHAVXiZFAVRtlmTZ_3.jpg",
+      "/products/-OjEcHAVXiZFAVRtlmTZ_4.jpg",
+      "/products/-OjEcHAVXiZFAVRtlmTZ_5.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "AZUL",
+      "P.ROSA",
+      "B.ROSA",
+      "BRANCO",
+      "BRANCO"
+    ],
+    "variants": [
+      {
+        "color": "AZUL",
+        "image": "/products/-OjEcHAVXiZFAVRtlmTZ_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "P.ROSA",
+        "image": "/products/-OjEcHAVXiZFAVRtlmTZ_v1.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "B.ROSA",
+        "image": "/products/-OjEcHAVXiZFAVRtlmTZ_v2.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "BRANCO",
+        "image": "/products/-OjEcHAVXiZFAVRtlmTZ_v3.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "color": "BRANCO",
+        "image": "/products/-OjEcHAVXiZFAVRtlmTZ_v4.jpg",
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "nike",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEcly35wNPvRX8I-V5",
+    "name": "ADIDAS",
+    "brand": "Adidas",
+    "price": 16599,
+    "image": "/products/-OjEcly35wNPvRX8I-V5_main.jpg",
+    "images": [
+      "/products/-OjEcly35wNPvRX8I-V5_0.jpg",
+      "/products/-OjEcly35wNPvRX8I-V5_1.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "AZUL"
+    ],
+    "variants": [],
+    "category": "adidas",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEdFRsQLUF4SZRTGZz",
+    "name": "ADIDAS PLATAFORMA",
+    "brand": "Adidas",
+    "price": 17088,
+    "image": "/products/-OjEdFRsQLUF4SZRTGZz_main.jpg",
+    "images": [
+      "/products/-OjEdFRsQLUF4SZRTGZz_0.jpg",
+      "/products/-OjEdFRsQLUF4SZRTGZz_1.jpg",
+      "/products/-OjEdFRsQLUF4SZRTGZz_2.jpg"
+    ],
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "colors": [
+      "P.BRANCO"
+    ],
+    "variants": [
+      {
+        "color": "P.BRANCO",
+        "image": "/products/-OjEdFRsQLUF4SZRTGZz_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "category": "adidas",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEdluwq-T1iwKYm0I8",
+    "name": "MIZUNO LS_",
+    "brand": "Mizuno",
+    "price": 15078,
+    "image": "/products/-OjEdluwq-T1iwKYm0I8_main.jpg",
+    "images": [
+      "/products/-OjEdluwq-T1iwKYm0I8_0.jpg",
+      "/products/-OjEdluwq-T1iwKYm0I8_1.jpg",
+      "/products/-OjEdluwq-T1iwKYm0I8_2.jpg",
+      "/products/-OjEdluwq-T1iwKYm0I8_3.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BEGE",
+      "AZUL",
+      "BRACO"
+    ],
+    "variants": [],
+    "category": "mizuno",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEe8kxyTw98MGwYsHQ",
+    "name": "MIZUNO PROPHICY 9",
+    "brand": "Mizuno",
+    "price": 15176,
+    "image": "/products/-OjEe8kxyTw98MGwYsHQ_main.jpg",
+    "images": [
+      "/products/-OjEe8kxyTw98MGwYsHQ_0.jpg",
+      "/products/-OjEe8kxyTw98MGwYsHQ_1.jpg",
+      "/products/-OjEe8kxyTw98MGwYsHQ_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "AZUL",
+      "P.AZUL"
+    ],
+    "variants": [],
+    "category": "mizuno",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEeV8sR9GGalMETewg",
+    "name": "MIZUO RIDER B",
+    "brand": "Mizuno",
+    "price": 16798,
+    "image": "/products/-OjEeV8sR9GGalMETewg_main.jpg",
+    "images": [
+      "/products/-OjEeV8sR9GGalMETewg_0.jpg",
+      "/products/-OjEeV8sR9GGalMETewg_1.jpg",
+      "/products/-OjEeV8sR9GGalMETewg_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BEGE",
+      "BRANCO"
+    ],
+    "variants": [],
+    "category": "mizuno",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEf3PB-F4-g9XlvTmA",
+    "name": "MIZUNO WAVE PROPHECY 15",
+    "brand": "Mizuno",
+    "price": 17198,
+    "image": "/products/-OjEf3PB-F4-g9XlvTmA_main.jpg",
+    "images": [
+      "/products/-OjEf3PB-F4-g9XlvTmA_0.jpg",
+      "/products/-OjEf3PB-F4-g9XlvTmA_1.jpg",
+      "/products/-OjEf3PB-F4-g9XlvTmA_2.jpg",
+      "/products/-OjEf3PB-F4-g9XlvTmA_3.jpg",
+      "/products/-OjEf3PB-F4-g9XlvTmA_4.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "L.BRANCO",
+      "BRANCO",
+      "P.BRACO",
+      "AZ.BRANCO"
+    ],
+    "variants": [],
+    "category": "mizuno",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEfSgC2Qy9IvmaEGFf",
+    "name": "AIR MAX 90",
+    "brand": "Nike",
+    "price": 17033,
+    "image": "/products/-OjEfSgC2Qy9IvmaEGFf_main.jpg",
+    "images": [
+      "/products/-OjEfSgC2Qy9IvmaEGFf_0.jpg",
+      "/products/-OjEfSgC2Qy9IvmaEGFf_1.jpg",
+      "/products/-OjEfSgC2Qy9IvmaEGFf_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "PRETO",
+      "CINZA",
+      "AZ.CINZA"
+    ],
+    "variants": [],
+    "category": "nike",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEfmsosMVeJEEdgdGk",
+    "name": "AIRFORCE",
+    "brand": "Nike",
+    "price": 19798,
+    "image": "/products/-OjEfmsosMVeJEEdgdGk_main.jpg",
+    "images": [
+      "/products/-OjEfmsosMVeJEEdgdGk_0.jpg",
+      "/products/-OjEfmsosMVeJEEdgdGk_1.jpg",
+      "/products/-OjEfmsosMVeJEEdgdGk_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BRANCO",
+      "CINZA"
+    ],
+    "variants": [],
+    "category": "nike",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjEg3ahMjuQNp20v9kk",
+    "name": "Nike TN Tuned Air",
+    "brand": "Nike",
+    "price": 17177,
+    "image": "/products/-OjEg3ahMjuQNp20v9kk_main.jpg",
+    "images": [
+      "/products/-OjEg3ahMjuQNp20v9kk_0.jpg",
+      "/products/-OjEg3ahMjuQNp20v9kk_1.jpg",
+      "/products/-OjEg3ahMjuQNp20v9kk_2.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "BRANCO",
+      "PRETO",
+      "AZUL"
+    ],
+    "variants": [],
+    "category": "nike",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjI3sBRqxWUifS6ozdM",
+    "name": "MIZUNO PRO 13",
+    "brand": "Mizuno",
+    "price": 15098,
+    "image": "/products/-OjI3sBRqxWUifS6ozdM_main.jpg",
+    "images": [
+      "/products/-OjI3sBRqxWUifS6ozdM_0.jpg",
+      "/products/-OjI3sBRqxWUifS6ozdM_1.jpg",
+      "/products/-OjI3sBRqxWUifS6ozdM_2.jpg",
+      "/products/-OjI3sBRqxWUifS6ozdM_3.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "BEGE",
+      "AZUL",
+      "P.AZUL"
+    ],
+    "variants": [],
+    "category": "mizuno",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  },
+  {
+    "id": "-OjI4VTFW0Lzs6Q31KiJ",
+    "name": "VANS UPLAND",
+    "brand": "VURO",
+    "price": 14087,
+    "image": "/products/-OjI4VTFW0Lzs6Q31KiJ_main.jpg",
+    "images": [
+      "/products/-OjI4VTFW0Lzs6Q31KiJ_0.jpg",
+      "/products/-OjI4VTFW0Lzs6Q31KiJ_1.jpg"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      ""
+    ],
+    "colors": [
+      "PRETO",
+      "P.BRANCO"
+    ],
+    "variants": [
+      {
+        "color": "PRETO",
+        "image": "/products/-OjI4VTFW0Lzs6Q31KiJ_v0.jpg",
+        "sizes": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      }
+    ],
+    "category": "sneakers",
+    "description": "",
+    "isNew": true,
+    "sold": false
+  }
+]

@@ -1,0 +1,16 @@
+node_modules
+.git
+.gitignore
+.cache
+.local
+.config
+.upm
+.replit
+replit.md
+README.md
+attached_assets
+data
+dist
+dist-server
+*.log
+.env

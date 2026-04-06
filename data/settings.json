@@ -1,0 +1,6 @@
+{
+  "freeShipping": false,
+  "standardShippingCost": 50,
+  "expressShippingCost": 50,
+  "overnightShippingCost": 50
+}

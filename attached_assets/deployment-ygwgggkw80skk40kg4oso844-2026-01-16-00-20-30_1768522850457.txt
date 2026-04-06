@@ -1,0 +1,78 @@
+2026-Jan-16 00:18:08.178277 Starting deployment of iyedjb/vurolouay:main to localhost.
+2026-Jan-16 00:18:08.730136 Preparing container with helper image: ghcr.io/coollabsio/coolify-helper:1.0.12
+2026-Jan-16 00:18:08.981987 [CMD]: docker stop -t 30 ygwgggkw80skk40kg4oso844
+2026-Jan-16 00:18:08.981987 Error response from daemon: No such container: ygwgggkw80skk40kg4oso844
+2026-Jan-16 00:18:09.224353 [CMD]: docker run -d --network coolify --name ygwgggkw80skk40kg4oso844 --rm -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/coollabsio/coolify-helper:1.0.12
+2026-Jan-16 00:18:09.224353 964c63075384ac12b325002d98305865b029a4fe8fbb00bd926239461cb36ab4
+2026-Jan-16 00:18:12.038362 [CMD]: docker exec ygwgggkw80skk40kg4oso844 bash -c 'GIT_SSH_COMMAND="ssh -o ConnectTimeout=30 -p 22 -o Port=22 -o LogLevel=ERROR -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git ls-remote https://x-access-token:<REDACTED>@github.com/iyedjb/vurolouay.git refs/heads/main'
+2026-Jan-16 00:18:12.038362 b21112442c633ca65d59d6a1fc213d6852ac313a refs/heads/main
+2026-Jan-16 00:18:12.209860 Image not found (r444koco484w8gccgckkwgos:b21112442c633ca65d59d6a1fc213d6852ac313a). Building new image.
+2026-Jan-16 00:18:12.684951 ----------------------------------------
+2026-Jan-16 00:18:12.691262 Importing iyedjb/vurolouay:main (commit sha b21112442c633ca65d59d6a1fc213d6852ac313a) to /artifacts/ygwgggkw80skk40kg4oso844.
+2026-Jan-16 00:18:12.932417 [CMD]: docker exec ygwgggkw80skk40kg4oso844 bash -c 'git clone --depth=1 --recurse-submodules --shallow-submodules -b 'main' 'https://x-access-token:<REDACTED>@github.com/iyedjb/vurolouay.git' '/artifacts/ygwgggkw80skk40kg4oso844' && cd '/artifacts/ygwgggkw80skk40kg4oso844' && if [ -f .gitmodules ]; then git submodule sync && GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git submodule update --init --recursive --depth=1; fi && cd '/artifacts/ygwgggkw80skk40kg4oso844' && GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" git lfs pull'
+2026-Jan-16 00:18:12.932417 Cloning into '/artifacts/ygwgggkw80skk40kg4oso844'...
+2026-Jan-16 00:18:18.251909 [CMD]: docker exec ygwgggkw80skk40kg4oso844 bash -c 'cd /artifacts/ygwgggkw80skk40kg4oso844 && git log -1 b21112442c633ca65d59d6a1fc213d6852ac313a --pretty=%B'
+2026-Jan-16 00:18:18.251909 Clarify Nixpacks configuration with comments
+2026-Jan-16 00:18:18.255400 Added comments to clarify the purpose of the Nixpacks configuration.
+2026-Jan-16 00:18:18.471795 Generating nixpacks configuration with: nixpacks plan -f json --env NIXPACKS_NODE_VERSION=22 --env COOLIFY_URL=http://r444koco484w8gccgckkwgos.91.108.124.103.sslip.io --env COOLIFY_FQDN=r444koco484w8gccgckkwgos.91.108.124.103.sslip.io --env COOLIFY_BRANCH=main --env COOLIFY_RESOURCE_UUID=r444koco484w8gccgckkwgos --build-cmd "npm run build" --start-cmd "npm start" /artifacts/ygwgggkw80skk40kg4oso844
+2026-Jan-16 00:18:18.689924 [CMD]: docker exec ygwgggkw80skk40kg4oso844 bash -c 'nixpacks plan -f json --env NIXPACKS_NODE_VERSION=22 --env COOLIFY_URL=http://r444koco484w8gccgckkwgos.91.108.124.103.sslip.io --env COOLIFY_FQDN=r444koco484w8gccgckkwgos.91.108.124.103.sslip.io --env COOLIFY_BRANCH=main --env COOLIFY_RESOURCE_UUID=r444koco484w8gccgckkwgos --build-cmd "npm run build" --start-cmd "npm start" /artifacts/ygwgggkw80skk40kg4oso844'
+2026-Jan-16 00:18:18.689924 {
+2026-Jan-16 00:18:18.689924 "providers": [],
+2026-Jan-16 00:18:18.689924 "buildImage": "ghcr.io/railwayapp/nixpacks:ubuntu-1745885067",
+2026-Jan-16 00:18:18.689924 "variables": {
+2026-Jan-16 00:18:18.689924 "COOLIFY_BRANCH": "main",
+2026-Jan-16 00:18:18.689924 "COOLIFY_FQDN": "r444koco484w8gccgckkwgos.91.108.124.103.sslip.io",
+2026-Jan-16 00:18:18.689924 "COOLIFY_RESOURCE_UUID": "r444koco484w8gccgckkwgos",
+2026-Jan-16 00:18:18.689924 "COOLIFY_URL": "http://r444koco484w8gccgckkwgos.91.108.124.103.sslip.io",
+2026-Jan-16 00:18:18.689924 "NIXPACKS_NODE_VERSION": "22",
+2026-Jan-16 00:18:18.689924 "NODE_ENV": "production",
+2026-Jan-16 00:18:18.689924 "NPM_CONFIG_PRODUCTION": "false",
+2026-Jan-16 00:18:18.689924 "PORT": "3000"
+2026-Jan-16 00:18:18.689924 },
+2026-Jan-16 00:18:18.689924 "phases": {
+2026-Jan-16 00:18:18.689924 "build": {
+2026-Jan-16 00:18:18.689924 "dependsOn": [
+2026-Jan-16 00:18:18.689924 "install"
+2026-Jan-16 00:18:18.689924 ],
+2026-Jan-16 00:18:18.689924 "cmds": [
+2026-Jan-16 00:18:18.689924 "npm run build"
+2026-Jan-16 00:18:18.689924 ]
+2026-Jan-16 00:18:18.689924 },
+2026-Jan-16 00:18:18.689924 "install": {
+2026-Jan-16 00:18:18.689924 "dependsOn": [
+2026-Jan-16 00:18:18.689924 "setup"
+2026-Jan-16 00:18:18.689924 ],
+2026-Jan-16 00:18:18.689924 "cmds": [
+2026-Jan-16 00:18:18.689924 "npm ci"
+2026-Jan-16 00:18:18.689924 ]
+2026-Jan-16 00:18:18.689924 },
+2026-Jan-16 00:18:18.689924 "setup": {
+2026-Jan-16 00:18:18.689924 "nixPkgs": [
+2026-Jan-16 00:18:18.689924 "nodejs_22",
+2026-Jan-16 00:18:18.689924 "npm-9_x"
+2026-Jan-16 00:18:18.689924 ],
+2026-Jan-16 00:18:18.689924 "nixpkgsArchive": "5148520bfab61f99fd25fb9ff7bfbb50dad3c9db"
+2026-Jan-16 00:18:18.689924 }
+2026-Jan-16 00:18:18.689924 },
+2026-Jan-16 00:18:18.689924 "start": {
+2026-Jan-16 00:18:18.689924 "cmd": "npm start"
+2026-Jan-16 00:18:18.689924 }
+2026-Jan-16 00:18:18.693703 }
+2026-Jan-16 00:18:18.887912 [CMD]: docker exec ygwgggkw80skk40kg4oso844 bash -c 'nixpacks detect /artifacts/ygwgggkw80skk40kg4oso844'
+2026-Jan-16 00:18:18.887912
+2026-Jan-16 00:18:18.942182 ========================================
+2026-Jan-16 00:18:18.947790 Deployment failed: Nixpacks failed to detect the application type. Please check the documentation of Nixpacks: https://nixpacks.com/docs/providers
+2026-Jan-16 00:18:18.952619 Error type: App\Exceptions\DeploymentException
+2026-Jan-16 00:18:18.958190 Error code: 0
+2026-Jan-16 00:18:18.963853 Location: /var/www/html/app/Jobs/ApplicationDeploymentJob.php:2225
+2026-Jan-16 00:18:18.968863 Stack trace (first 5 lines):
+2026-Jan-16 00:18:18.974340 #0 /var/www/html/app/Jobs/ApplicationDeploymentJob.php(888): App\Jobs\ApplicationDeploymentJob->generate_nixpacks_confs()
+2026-Jan-16 00:18:18.979309 #1 /var/www/html/app/Jobs/ApplicationDeploymentJob.php(482): App\Jobs\ApplicationDeploymentJob->deploy_nixpacks_buildpack()
+2026-Jan-16 00:18:18.984125 #2 /var/www/html/app/Jobs/ApplicationDeploymentJob.php(342): App\Jobs\ApplicationDeploymentJob->decide_what_to_do()
+2026-Jan-16 00:18:18.989284 #3 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\Jobs\ApplicationDeploymentJob->handle()
+2026-Jan-16 00:18:18.994595 #4 /var/www/html/vendor/laravel/framework/src/Illuminate/Container/Util.php(43): Illuminate\Container\BoundMethod::{closure:Illuminate\Container\BoundMethod::call():35}()
+2026-Jan-16 00:18:18.999886 ========================================
+2026-Jan-16 00:18:19.005921 Deployment failed. Removing the new version of your application.
+2026-Jan-16 00:18:19.140121 Gracefully shutting down build container: ygwgggkw80skk40kg4oso844
+2026-Jan-16 00:18:19.416556 [CMD]: docker stop -t 30 ygwgggkw80skk40kg4oso844
+2026-Jan-16 00:18:19.416556 ygwgggkw80skk40kg4oso844
