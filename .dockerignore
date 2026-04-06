@@ -11,7 +11,7 @@ README.md
 attached_assets/*
 !attached_assets/vega_avatar.png
 !attached_assets/image_1775422346160.png
-data
+# data removed so products.json is available in the image
 dist
 dist-server
 *.log
